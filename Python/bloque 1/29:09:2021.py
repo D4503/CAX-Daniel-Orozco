@@ -1,0 +1,6 @@
+print("hello world")
+print("My name is")
+print("Daniel Orozco")
+print("I am in 9°A grade")
+print("I really like the ropa vieja that my grandma makes me")
+print("I really like to drive")
